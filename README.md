@@ -16,8 +16,9 @@
  * Vs Code
  * Dev Tool
  * Github
- *  Web Browser
- *  Bootstrap
+ * Web Browser
+ * Bootstrap
+
 
 ##  Web link
 https://zeeshanmufti1995.github.io/day-calender/
