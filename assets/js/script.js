@@ -193,3 +193,8 @@ function testTime() {
 testTime();
 
 
+// Event listener to save to local stroage
+$(".saveBtn").click(function (event) {
+    event.preventDefault();
+    console.log(saveBtn);
+})
