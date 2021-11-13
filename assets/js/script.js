@@ -65,6 +65,21 @@ $(".block9").text(time9);
 
 //function
 function testTime() {
+    time1 = moment().startOf('day').add(9, "hours");
+    currentTime = currentTime.startOf("hour");
+    console.log(currentTime);
+        //Red
+    if (currentTime.isAfter(time1)) {
+        $(".form9").addClass("past");
+    }
+    //sliver
+    else if (currentTime.isBefore(time1)) {
+        $(".form9").addClass("future");
+    }
+    //Green
+    else if (currentTime.isSame(time1)) {
+        $(".form9").addClass("present");
+    };
 
-    
+
 }
