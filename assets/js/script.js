@@ -62,3 +62,9 @@ $(".block8").text(time8);
 var time9 = beforeTime.add(1, "h");
 time9 = time9.format('hh:mm A');
 $(".block9").text(time9);
+
+//function
+function testTime() {
+
+    
+}
