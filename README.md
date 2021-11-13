@@ -21,7 +21,7 @@
 
 
 ##  Web link
-https://zeeshanmufti1995.github.io/day-calender/
+https://zeeshanmufti1995.github.io/Day-calender/
 
 
 ## Screen Shot
